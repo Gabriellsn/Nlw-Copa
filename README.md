@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
         JavaScript
     </li>
     <li>
-        Git e Githu
+        Git e Github
     </li>
 </ul>
 <h1>💻 Projeto</h1>
