@@ -37,7 +37,7 @@ body{
     background-image: var(--bg);
     background-repeat: no-repeat;
     background-position: top center;
-    background-size: cover;
+    background-size: cover ;
     
 }  
 body *{
